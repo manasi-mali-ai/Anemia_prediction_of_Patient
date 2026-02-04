@@ -5,10 +5,10 @@ import joblib
 # ===============================
 # LOAD TRAINED OBJECTS
 # ===============================
-model = joblib.load("/content/anemia_model.pkl")
-scaler = joblib.load("/content/scaler.pkl")
-imputer = joblib.load("/content/imputer.pkl")
-encoder = joblib.load("/content/label_encoder.pkl")
+model = joblib.load("anemia_model.pkl")
+scaler = joblib.load("scaler.pkl")
+imputer = joblib.load("imputer.pkl")
+encoder = joblib.load("label_encoder.pkl")
 
 # ===============================
 # PAGE CONFIG
