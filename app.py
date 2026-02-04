@@ -3,6 +3,39 @@ import pandas as pd
 import numpy as np
 import joblib
 
+# data preprocessing and label encoding
+def preprocess_df(df: pd.DataFrame, model):
+    df = df.rename(columns=COLUMN_MAPPING).copy()
+
+    if "Gender" in df.columns:
+        g = df["Gender"].astype(str).str.strip().str.upper()
+        g = g.replace({"M": "MALE", "F": "FEMALE"})
+        df["Gender_norm"] = g.map({"MALE": "Male", "FEMALE": "Female"})
+
+        if df["Gender_norm"].isna().any():
+            bad = df.loc[df["Gender_norm"].isna(), "Gender"].unique()
+            raise ValueError(f"Invalid Gender values found: {bad}. Allowed: Male/Female/M/F/MALE/FEMALE")
+
+        if not hasattr(model, "named_steps"):
+            # ✅ Your training encoding:
+            # Male = 0, Female = 1
+            df["Gender"] = df["Gender_norm"].map({"Male": 0, "Female": 1}).astype(int)
+        else:
+            df["Gender"] = df["Gender_norm"]
+
+        df = df.drop(columns=["Gender_norm"])
+
+    for col in df.columns:
+        if col != "Gender":
+            df[col] = pd.to_numeric(df[col], errors="coerce")
+
+    bad_cols = [c for c in df.columns if c != "Gender" and df[c].isna().any()]
+    if bad_cols:
+        raise ValueError(f"Some numeric columns contain invalid/missing values: {bad_cols}")
+
+    return df
+
+
 # ======================
 # Page config
 # ======================
@@ -96,6 +129,8 @@ if input_method == "Manual Entry":
 
         # Rename to training column names
         input_df = input_df.rename(columns=COLUMN_MAPPING)
+        input_df = preprocess_df(input_df, model)
+
 
         # Predict (PIPELINE handles everything)
         probs = model.predict_proba(input_df)[0]
@@ -125,6 +160,8 @@ else:
 
         # Rename columns
         df = df.rename(columns=COLUMN_MAPPING)
+        df = preprocess_df(df, model)
+
 
         # Predict
         preds = model.predict(df)
