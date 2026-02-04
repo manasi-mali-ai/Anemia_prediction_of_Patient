@@ -1,0 +1,233 @@
+Patient ID,Age,Gender,RBC(1012/L),HGB(g/dl),HCT(%),MCV(fl),MCH(pg),MCHC(g/dl),RDW-CV(%),Unnamed: 10,Anemia_Type
+1,27,MALE,3.36,10.6,27.4,81.6,31.5,38.63,14.1, ,Normocytic Anemia
+2,19,FEMALE,4.17,9,25,60,21.6,35.9,15.4,,Unclassified Anemia
+3,18,MALE,4.47,10.7,30.5,68.2,24.1,35.3,16.7,,Unclassified Anemia
+4,63,MALE,3.11,10.4,27.4,88.1,33.3,37.8,14,,Normocytic Anemia
+5,11,FEMALE,3.71,9.4,25.9,69.8,25.4,36.4,14.7,,Unclassified Anemia
+6,18,MALE,2.65,5.8,19.8,74.4,22,29.6,21,,Iron Deficiency Anemia
+7,26,MALE,3.14,9.7,25.3,80.6,30.9,38.4,12.8,,Normocytic Anemia
+8,42,FEMALE,3.93,8.3,26.4,67.3,21.2,31.4,15.8,,Iron Deficiency Anemia
+9,2,FEMALE,4.24,6.8,21.6,51,16.1,31.6,20.5,,Unclassified Anemia
+10,22,FEMALE,3.31,9,24.8,75,27.3,36.5,15.8,,Unclassified Anemia
+11,30,MALE,2.19,7,19.1,87.2,31.8,36.4,11.4,,Unclassified Anemia
+13,25,MALE,2.34,7.2,18.9,86.2,31.7,36.8,11.6,,Normocytic Anemia
+28,8,MALE,4.15,9.4,30.1,72.6,22.8,31.4,16.6,,Iron Deficiency Anemia
+29,10,MALE,4.73,9.5,31.1,65.8,20.1,30.5,14,,Thalassemia Trait
+30,62,FEMALE,2.29,8.8,24.5,106.8,38.3,35.8,16.3,,B12/Folate Deficiency
+34,43,FEMALE,3.79,9.4,24,63.4,25.1,39.5,19,,Unclassified Anemia
+35,18,MALE,3.24,10.6,25.5,78.8,32.8,41.7,15,,Unclassified Anemia
+36,7,MALE,3.28,7.3,18.6,56.9,22.3,39.2,18,,Unclassified Anemia
+37,49,MALE,1.88,5,13.2,70,26.6,37.9,21.2,,Unclassified Anemia
+38,35,FEMALE,3.84,8.2,21.3,55.4,21.2,38.3,19.5,,Unclassified Anemia
+39,30,FEMALE,2.69,8.8,23,85.4,32.6,38.2,16.6,,Hemolytic Anemia
+40,62,FEMALE,1.69,6.8,16.9,100,40.4,40.4,23.5,,Hemolytic Anemia
+41,21,MALE,3.33,8.3,21,62.9,25,39.7,17.3,,Unclassified Anemia
+42,42,FEMALE,2.17,6.1,28.3,93.5,28.1,30,24.6,,Hemolytic Anemia
+43,28,MALE,2.26,9.3,26.9,119,41.2,34.6,15.6,,B12/Folate Deficiency
+44,57,FEMALE,3.01,9,31.2,103.7,29.9,28.8,25,,Unclassified Anemia
+45,77,MALE,4.36,9.3,32.2,73.9,21.3,28.9,16,,Iron Deficiency Anemia
+46,25,MALE,3.04,9.1,30.1,99,29.9,30.2,17.4,,Hemolytic Anemia
+47,70,FEMALE,3.15,7.8,25.2,80,24.8,31,16.5,,Hemolytic Anemia
+48,79,FEMALE,1.96,7.1,22.1,112.8,36.2,32.1,14.8,,B12/Folate Deficiency
+49,14,FEMALE,2.83,7.8,22.8,80.6,27.6,34.2,13.3,,Normocytic Anemia
+50,55,MALE,4.8,8.5,27.9,57.3,17.7,30.8,17.9,,Unclassified Anemia
+51,89,MALE,2.99,6.9,23.1,77.3,23.1,29.9,18.3,,Iron Deficiency Anemia
+52,40,MALE,3.49,9.2,32.4,92.8,26.4,28.4,18.5,,Hemolytic Anemia
+53,18,MALE,3.48,5,21.6,62.1,14.7,23.6,14.75,,Iron Deficiency Anemia
+54,26,MALE,3.5,8.1,27.2,77.7,23.1,29.8,17.4,,Iron Deficiency Anemia
+55,55,FEMALE,3.39,9.2,29.5,87,29.1,31.2,14.6,,Hemolytic Anemia
+56,51,FEMALE,3.81,7.2,24.4,64,18.9,29.5,15.2,,Iron Deficiency Anemia
+57,71,MALE,2.89,8,24.9,86.2,27.7,32.1,14.6,,Chronic Disease Anemia
+58,27,FEMALE,3.21,8.6,26.5,82.6,26.8,32.5,14,,Normocytic Anemia
+59,28,MALE,3.96,7.8,28.5,72,19.7,27.4,20.1,,Iron Deficiency Anemia
+60,34,MALE,3.73,8.6,28.9,77.5,23.1,29.8,16.1,,Iron Deficiency Anemia
+61,78,FEMALE,4.21,7,26.6,63.2,18.6,26.3,21.3,,Unclassified Anemia
+62,28,FEMALE,2.26,9.3,26.9,119,41.2,34.6,15.6,,B12/Folate Deficiency
+63,80,MALE,2.96,8.1,25,84.5,27.4,32.4,17.4,,Chronic Disease Anemia
+64,78,MALE,2.71,8,23.8,87.8,29.5,33.6,15,,Chronic Disease Anemia
+65,65,MALE,2.53,7.7,23.3,92.1,30,33,15,,Chronic Disease Anemia
+66,25,MALE,4.11,9.5,31.7,77.1,23.1,30,17.8,,Iron Deficiency Anemia
+67,40,MALE,2.97,9.4,29.1,98,31.6,32.3,21.3,,Chronic Disease Anemia
+68,62,FEMALE,2.26,8.4,16.7,73.8,37.1,50.2,15.6,,Unclassified Anemia
+69,72,MALE,1.91,4.2,13.1,68.4,22.2,32.5,18.2,,Unclassified Anemia
+70,35,MALE,5.33,8.4,31.2,58.5,15.8,26.9,19.1,,Unclassified Anemia
+71,35,MALE,3.94,7.8,29.2,74.1,19.8,26.7,18.7,,Iron Deficiency Anemia
+72,65,MALE,3.34,9,30.5,91.3,26.9,29.5,14.6,,Hemolytic Anemia
+73,18,MALE,4.05,8.5,30.5,75.3,21,27.9,21.2,,Iron Deficiency Anemia
+74,57,FEMALE,2.25,8.1,21.1,93.6,36.1,38.6,14.1,,Normocytic Anemia
+75,54,MALE,2.96,9.3,25.3,85.6,31.6,30.9,15.5,,Hemolytic Anemia
+76,57,FEMALE,1.92,6.9,17.5,91.4,36,39.4,14.3,,Normocytic Anemia
+77,55,MALE,3.16,8.5,28.2,89.2,26.9,30.1,14.9,,Hemolytic Anemia
+78,80,MALE,3.43,8.3,30.6,89.2,24.2,27.1,17.9,,Hemolytic Anemia
+79,32,FEMALE,1.36,5.2,16.6,122.1,38.2,31.3,29.2,,Unclassified Anemia
+80,21,MALE,3.24,8.4,25.1,77.5,25.9,33.4,16.1,,Unclassified Anemia
+81,27,MALE,3.17,9.7,28.1,88.6,30.6,34.5,12.7,,Normocytic Anemia
+82,40,MALE,4.56,10.7,35.9,78.7,23.5,29.8,15.8,,Unclassified Anemia
+83,35,MALE,4.12,9.9,34.5,83.7,24,28.7,17.3,,Hemolytic Anemia
+84,66,MALE,3.7,10.4,32.7,88.4,28.1,31.8,16.5,,Hemolytic Anemia
+85,52,MALE,4.68,10.2,35,74.8,21.8,29.1,17.1,,Unclassified Anemia
+86,81,MALE,3.52,9.7,31,88.1,27.6,31.3,13.5,,Normocytic Anemia
+87,17,MALE,3.84,10.2,32.9,85.7,26.6,31,14.2,,Normocytic Anemia
+88,32,MALE,5.64,10,35.1,62.2,17.7,28.5,18,,Unclassified Anemia
+89,27,MALE,4.43,10.7,35,79,24.2,30.6,15.9,,Iron Deficiency Anemia
+90,71,MALE,2.89,8,24.9,86.2,27.7,32.1,14.6,,Chronic Disease Anemia
+91,62,MALE,4.74,10.4,33.8,71.3,21.9,30.8,15.2,,Unclassified Anemia
+92,43,MALE,3.17,10.3,31.6,99.7,32.5,32.6,16.4,,Chronic Disease Anemia
+93,15,MALE,3.58,10.2,36.8,102.8,28.5,27.7,16.2,,Unclassified Anemia
+94,28,MALE,3.96,7.8,28.5,72,19.7,27.4,20.1,,Iron Deficiency Anemia
+95,22,MALE,2.77,10.3,32.5,117.3,37.2,31.7,16.7,,Unclassified Anemia
+96,34,MALE,3.73,8.6,28.9,77.5,23.1,29.8,16.1,,Iron Deficiency Anemia
+97,16,MALE,3.47,9.9,32.9,94.8,28.5,30.1,15.1,,Hemolytic Anemia
+98,50,MALE,2.88,9.1,30,104.2,31.6,30.3,15.3,,Unclassified Anemia
+99,80,MALE,2.96,8.1,25,84.5,27.4,32.4,17.4,,Chronic Disease Anemia
+100,78,MALE,3.34,10.3,29.7,88.9,30.8,34.7,15.4,,Chronic Disease Anemia
+101,54,MALE,2.55,8.1,24,94.1,31.8,33.8,16.7,,Chronic Disease Anemia
+102,78,MALE,2.71,8,23.8,87.8,29.5,33.6,15,,Chronic Disease Anemia
+103,65,MALE,2.53,7.7,23.3,92.1,30,33,15,,Chronic Disease Anemia
+104,24,MALE,3.53,10.6,26.4,85.4,30.2,32.4,14.2,,Normocytic Anemia
+105,27,MALE,3.41,10.2,32.6,88.2,29.5,33.1,14.8,,Chronic Disease Anemia
+106,23,MALE,3.54,10.3,32.8,87.3,27.6,33.4,15.7,,Chronic Disease Anemia
+107,22,MALE,3.33,9.9,26.9,92.3,30.4,32.6,14.7,,Chronic Disease Anemia
+108,38,MALE,4.58,10.4,36.4,77.3,22.7,29.4,16.1,,Unclassified Anemia
+109,73,MALE,1.91,4.2,13.1,68.4,22.2,32.5,18.2,,Unclassified Anemia
+110,65,MALE,3.17,9,27.9,88,28.4,32.3,13.9,,Normocytic Anemia
+111,35,MALE,3.94,7.8,29.2,74.1,19.8,26.7,18.7,,Iron Deficiency Anemia
+112,42,MALE,3.68,10.5,34.4,89.1,27.2,30.5,14.2,,Normocytic Anemia
+113,65,MALE,3.67,10.2,33.3,90.7,27.8,30.6,16.8,,Hemolytic Anemia
+114,47,MALE,4.11,10.3,29.3,71.4,25.5,35.7,18,,Unclassified Anemia
+115,34,MALE,3.71,10.6,34.7,93.5,28.6,30.5,14.7,,Hemolytic Anemia
+116,42,MALE,3.66,7.4,27.4,74.9,20.2,27,18.3,,Iron Deficiency Anemia
+117,26,MALE,3.77,10.3,33.2,88.1,27.3,31,14.2,,Normocytic Anemia
+118,54,MALE,2.96,9.3,25.3,85.6,31.6,30.9,15.5,,Hemolytic Anemia
+119,22,MALE,4.41,9.9,34.5,78.2,22.4,28.7,16,,Iron Deficiency Anemia
+120,27,MALE,3.17,9.7,28.1,88.6,30.6,34.5,12.7,,Normocytic Anemia
+121,69,Male,3.05,9.8,23.9,78.3,32.1,41,13.2,,Unclassified Anemia
+122,30,Female,4.54,9.4,27.2,59.9,21.1,35.3,12.8,,Unclassified Anemia
+123,18,Male,2.84,8.3,20.3,71.4,29.3,41,11.6,,Unclassified Anemia
+124,40,Female,3.35,8.6,21.6,64.4,25.8,36.1,14.4,,Unclassified Anemia
+125,40,Female,3.31,8.2,24.3,73.3,24.8,33.8,13.2,,Unclassified Anemia
+126,60,Male,3.61,10.2,30.8,85.2,31.7,35.3,13.8,,Normocytic Anemia
+127,48,Female,3.84,8.7,26.6,69.1,26.8,38.7,14.1,,Unclassified Anemia
+128,48,Male,3.7,10.5,28.7,77.5,31.8,31.5,14.2,,Unclassified Anemia
+129,20,Male,4.9,10.1,30.8,75.4,28.6,38,14.3,,Unclassified Anemia
+130,32,Female,2.95,7.2,19.7,66.7,24.4,34.6,13.1,,Unclassified Anemia
+131,47,Female,4.11,9.2,29.5,71.7,24.8,34.5,12.2,,Unclassified Anemia
+132,67,Female,1.62,6.6,15.8,97.8,41,42,11.3,,Unclassified Anemia
+133,44,Female,3.12,9,22,70.7,29,41,17.1,,Unclassified Anemia
+134,23,Female,3.25,9.1,24.6,75.8,28.1,28.9,11.5,,Unclassified Anemia
+135,28,Male,3.88,8.8,25.9,66.8,22.8,34.1,12.8,,Unclassified Anemia
+136,30,Female,4.05,8.2,27.5,68,20.3,29.9,13.9,,Unclassified Anemia
+137,17,Male,3.38,10.4,26,76.7,31.6,41.7,15.5,,Unclassified Anemia
+138,3,Male,4.51,7.7,20.7,45.8,16.9,37,10.5,,Unclassified Anemia
+139,62,Female,2.2,8.8,25.2,98.5,39.8,34.8,11.8,,Normocytic Anemia
+140,30,Female,2.93,9,23.9,81.4,30.7,36,12.5,,Normocytic Anemia
+141,5,Male,3.67,10.2,30.3,82.5,32.3,27.9,12.5,,Normocytic Anemia
+142,28,Female,3.3,8.8,23,69.5,26.6,34.7,16.4,,Unclassified Anemia
+143,19,Female,4.64,9.5,32.4,69.8,20.5,29.4,12.6,,No Anemia
+144,30,Female,3.5,8.3,28,80,23.7,29.6,13.6,,Normocytic Anemia
+145,28,Female,2.35,9.3,24.8,99.8,33,37.5,18,,Hemolytic Anemia
+146,13,Male,4,10.4,34.2,85.6,27,31.6,13.4,,Normocytic Anemia
+147,27,Female,3.37,9.4,30.1,89.5,29,32.4,14.2,,Normocytic Anemia
+148,20,Female,4.21,9,28.7,68.3,21.4,31.4,14.1,,Thalassemia Trait
+149,42,Female,4.43,9.2,34.3,77.4,23.3,30.1,11,,Unclassified Anemia
+150,23,Female,3.55,8.7,29.3,82.6,24.4,29.5,14.3,,Normocytic Anemia
+151,24,Female,3.77,8.6,28,74.4,22.8,30.7,15,,Iron Deficiency Anemia
+152,20,Female,3.45,8.7,31.1,90.2,29.5,32.7,14,,Normocytic Anemia
+153,40,Male,3.62,7.2,26.6,73.6,20,27.2,13.7,,Unclassified Anemia
+154,2,Female,4.27,9.4,32.3,76.5,23.3,30.9,16.1,,Unclassified Anemia
+155,26,Female,4.38,8.7,34.5,78.8,24,30.5,15.9,,Unclassified Anemia
+156,29,Female,3.06,9.3,29.1,95.2,30.5,32,12.8,,Normocytic Anemia
+157,80,Female,4.1,7.4,35.5,64.2,19.1,29.7,12.7,,Unclassified Anemia
+158,43,Female,3.13,9,30.1,96.2,30.6,31.8,13.4,,Normocytic Anemia
+159,34,Female,3.61,9.1,29.8,82.8,25.1,30.4,19,,Hemolytic Anemia
+160,16,Male,4,10.2,32.4,81,25.6,31.5,12.4,,Normocytic Anemia
+161,65,Female,4.19,9.1,30.3,72.3,21.7,30,18,,Unclassified Anemia
+162,30,Female,3.53,9.2,32.5,92.1,29.2,31.7,14.1,,Normocytic Anemia
+163,13,Female,4.11,8.8,33.6,81.8,24.9,30.5,14,,Unclassified Anemia
+164,19,Female,4.93,8.9,32.1,65.1,18.2,27.9,12.5,,Unclassified Anemia
+165,65,Female,4.45,7.9,31,69.7,21.6,31,10.9,,Unclassified Anemia
+166,74,Male,4.41,8.8,29.3,66.4,19.9,30,14.1,,Unclassified Anemia
+168,26,Female,4.3,9.5,34.8,81,24.1,29.8,14.5,,No Anemia
+169,20,Female,3.56,9.2,32.7,91.8,29.1,31.7,12.6,,Normocytic Anemia
+171,27,Female,3.74,9.4,33.7,90.2,28.5,31.6,12.5,,Normocytic Anemia
+175,21,Female,3.24,9,29.3,90.4,27.6,30.6,14.4,,Normocytic Anemia
+177,28,Female,3.65,9.2,32.6,89.4,28,31.3,13.7,,Normocytic Anemia
+178,35,Female,3.46,9.3,32.1,92.9,28.3,30.5,13.9,,Normocytic Anemia
+181,77,Male,4.14,10.4,37.5,90.4,28.7,31.8,14.5,,Normocytic Anemia
+182,46,Female,4.09,8.6,34.5,84.3,24.4,29,17,,Hemolytic Anemia
+183,29,Female,4.17,9.1,31.9,76.6,23.8,31.1,13.8,,Thalassemia Trait
+184,30,Female,3.07,6.7,25,81.6,21.9,26.8,23,,Hemolytic Anemia
+185,38,Female,3.97,8.2,35.1,88.4,27.4,30.9,14.2,,Normocytic Anemia
+186,12,Female,5.1,9.5,36,71.1,21.5,30.3,14,,No Anemia
+187,42,Female,4.09,9.4,35.5,70.1,19.6,28,21,,Iron Deficiency Anemia
+188,22,Male,3.82,9.7,32.9,86.2,28.8,33.4,12.7,,Normocytic Anemia
+190,57,Male,4.24,10.3,35.7,84.1,25.7,30.5,13.8,,Normocytic Anemia
+191,5,Male,4.15,10.1,33.4,80.4,24.4,30.3,15,,Hemolytic Anemia
+192,35,Female,3.46,9.1,32.1,92.9,28.3,30.5,13.9,,Normocytic Anemia
+195,77,Male,4.14,9.9,37.5,90.4,28.7,31.8,11.9,,Normocytic Anemia
+196,12,Female,3.77,8.5,32,85,26.5,31.2,14.2,,Normocytic Anemia
+197,22,Male,3.72,10.3,32.1,86.2,29.5,34.2,12.7,,Normocytic Anemia
+198,30,Female,3.07,6.7,25,81.6,21.9,26.8,23,,Hemolytic Anemia
+201,27,MALE,3.36,10.6,27.4,81.6,31.5,38.6,14.1,,Normocytic Anemia
+202,18,MALE,3.1,8.2,26,68,21,30,18.9,,Iron Deficiency Anemia
+203,34,MALE,5.5,9.9,33,16,19,31,13,,Thalassemia Trait
+204,42,FEMALE,3.2,8.9,28,90,29,33,14.1,,Normocytic Anemia
+208,16,MALE,3.7,10.1,32,92,30,34,13.5,,Normocytic Anemia
+209,22,FEMALE,3.5,9.5,30,88,28,33,13.8,,No Anemia
+210,13,MALE,6.1,10.8,36,60,18,30,12.8,,No Anemia
+211,18,FEMALE,3.6,9.4,29,88,28,33,13.6,,Normocytic Anemia
+212,38,FEMALE,3.4,9,28,90,29,33,13.8,,Normocytic Anemia
+213,14,FEMALE,5.3,9.5,31,61,19,31,13.1,,No Anemia
+214,22,MALE,6.1,10.7,36,58,18,30,12.7,,Thalassemia Trait
+215,31,FEMALE,3.7,9.9,31,87,28,32,13.5,,No Anemia
+216,14,MALE,3.4,9.1,28,90,29,33,13.8,,Normocytic Anemia
+217,33,FEMALE,5.6,10.1,33,59,18,31,13,,No Anemia
+218,17,MALE,3.7,9.9,31,87,28,32,13.5,,Normocytic Anemia
+219,15,MALE,3.7,9.8,31,86,27,32,14,,Normocytic Anemia
+220,23,FEMALE,3.4,9.1,28,90,29,33,13.8,,Normocytic Anemia
+221,32,Female ,4.15,9.5,33.9,81.7,24.3,29.7,13.2,,No Anemia
+222,19,Female ,3.89,9.1,35.1,90.7,15.8,26.5,12.4,,Normocytic Anemia
+224,50,Female ,3.98,9.2,30.1,83.1,25.1,30.2,14.1,,Normocytic Anemia
+225,28,Female ,3.6,8.2,32.6,89.4,28,31.3,13.9,,Normocytic Anemia
+228,11,Female ,3.86,9.1,37.6,85.8,26.6,31.4,14.4,,Normocytic Anemia
+230,69,Male,4.3,10.3,28.6,97.3,20.4,25.8,13.9,,Normocytic Anemia
+231,27,Female,3.85,11.4,33.2,86.2,29.7,34.4,12.4,,No Anemia
+232,35,Male,4.79,14,41.1,85.8,29.2,34,13,,No Anemia
+233,45,Female,3.79,10,30.7,81.1,26.3,32.4,15.5,,No Anemia
+234,7,Male,4.48,13,37.4,83.5,28.9,34.7,12.3,,No Anemia
+235,42,Female,4.5,12.8,39.1,86.9,28.4,32.7,14,,No Anemia
+236,25,Male,4.34,12.6,38,87.7,29,33,11.7,,No Anemia
+237,40,Male,5.45,16.3,47.3,86.9,29.8,34.3,13,,No Anemia
+238,38,Male,5.42,13.8,41.7,77,25.5,33.1,13.5,,No Anemia
+239,28,Female,3.72,11.8,33.5,90.1,31.7,35.2,11.9,,No Anemia
+240,32,Male,4.95,15.1,43.8,88.5,30.5,34.5,13.1,,No Anemia
+241,36,Female,4.21,11.9,35.5,84.2,28.2,33.6,13.8,,No Anemia
+242,28,Female,5.69,15.1,46.1,80.9,26.6,32.8,13.2,,No Anemia
+243,27,Male,5.09,14.5,43.3,85.1,28.6,33.6,14.8,,No Anemia
+244,68,Male,4.31,11.8,34.7,80.5,27.4,34,19.9,,No Anemia
+245,21,Male,4.38,12.5,36.8,84,28.6,34,12.2,,No Anemia
+246,40,Female,4.31,10.6,33,76.7,24.6,32,18.1,,No Anemia
+247,24,Male,4.6,14.2,42.1,91.5,31,33.8,11.8,,No Anemia
+248,20,Female,3.96,10.4,31.7,80.1,26.2,32.7,13.2,,No Anemia
+249,37,Male,4.64,13.8,41,88.3,29.7,33.6,13.1,,No Anemia
+250,55,Female,4.46,12,36.2,81,26.9,33.2,14.5,,No Anemia
+251,27,Male,5.09,14.5,43.3,85.1,28.6,33.6,14.8,,No Anemia
+252,32,Male,5.39,14.6,44.2,82.1,27.1,33,12.9,,No Anemia
+253,5,Male,4.13,11.3,33.5,81.2,27.3,33.7,12.7,,No Anemia
+254,55,Female,4.46,10.7,33.9,76,24,31.5,15.8,,No Anemia
+255,18,Male,4.39,12.8,39.5,90,29.3,32.5,16.7,,No Anemia
+256,15,Female,4.71,13.7,39.8,84.6,29.1,34.3,12.8,,No Anemia
+257,58,Female,4.28,12.8,38,88.9,29.9,33.7,12.1,,No Anemia
+258,45,Male,4.94,13.4,39.9,80.7,27.2,33.7,13.4,,No Anemia
+259,19,Female,4.69,12.4,37.2,79.2,26.5,33.5,12.3,,No Anemia
+260,80,Female,3.95,11.9,34.9,88.5,30.1,34,12.6,,No Anemia
+261,23,Female,4.62,11.2,33.7,72.9,24.3,33.3,14.7,,No Anemia
+262,4,Female,4.14,11.8,34.2,82.6,28.6,34.6,11.5,,No Anemia
+263,17,Male,5.32,15.1,44.3,83.2,28.4,34.2,12.1,,No Anemia
+264,26,Male,5.66,14.6,42.5,75,25.7,34.3,12.3,,No Anemia
+265,19,Female,4.04,12.2,35.9,88.8,30.1,33.9,11.8,,No Anemia
+266,4,Male,4.55,12,34.9,76.6,26.5,34.5,14.6,,No Anemia
+267,18,Female,4.48,13,39.5,88.3,29.1,32.9,11.5,,No Anemia
+268,3,Male,4.54,11.8,35.8,78.7,26,33,12.9,,No Anemia
+269,18,Male,4.59,13.3,41.5,90.4,29,32,12,,No Anemia
+270,20,Female,3.67,11.8,33.9,92.1,32,34.8,10.8,,No Anemia
