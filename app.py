@@ -45,36 +45,48 @@ model, le = load_model()
 # ======================
 COLUMN_MAPPING = {
     "Age": "Age",
+    "Age_years": "Age",
+    "AGE": "Age",
+
     "Gender": "Gender",
+    "GENDER": "Gender",
 
     # RBC variants
     "RBC10¹²-L": "RBC(10^12/L)",
     "RBC(1012/L)": "RBC(10^12/L)",
     "RBC(10^12/L)": "RBC(10^12/L)",
+    "RBC_count_10^12_L": "RBC(10^12/L)",
 
     # HGB variants
     "HGBg-dL": "HGB(g/dl)",
     "HGB(g/dl)": "HGB(g/dl)",
+    "Hemoglobin_g_dL": "HGB(g/dl)",
 
     # HCT variants
     "HCT%": "HCT(%)",
     "HCT(%)": "HCT(%)",
+    "HCT_percent": "HCT(%)",
 
     # MCV variants
     "MCVfL": "MCV(fl)",
     "MCV(fl)": "MCV(fl)",
+    "MCV_fL": "MCV(fl)",
+    "MCV(pg)": "MCV(fl)",
 
     # MCH variants
     "MCHpg": "MCH(pg)",
     "MCH(pg)": "MCH(pg)",
+    "MCH_pg": "MCH(pg)",
 
     # MCHC variants
     "MCHCg-dL": "MCHC(g/dl)",
     "MCHC(g/dl)": "MCHC(g/dl)",
+    "MCHC_g_dL": "MCHC(g/dl)",
 
     # RDW variants
     "RDW-CV%": "RDW-CV(%)",
     "RDW-CV(%)": "RDW-CV(%)",
+    "RDW_CV_percent": "RDW-CV(%)",
 }
 
 # The exact 9 inputs your RF expects (Male=0, Female=1)
